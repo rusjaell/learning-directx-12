@@ -1,16 +1,13 @@
-# Basic Graphics Engine
+# Learning DirectX 12
 
 ## Overview
-
-A basic graphics engine for learning about Textures, Shaders, Buffer Objects and Basic Lighting
+A project for learning about DirectX12
 
 ## Prerequisites
-
 - Windows OS
-- C++ compiler with C++17 support
+- C++ compiler with C++20 support
 
 ## Building the Project
-
 To generate the solution file for your project, run:
 
 ```bat
